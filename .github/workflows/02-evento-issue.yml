@@ -9,5 +9,5 @@ jobs:
   hola-mundo:
     runs-on: ubuntu-latest
     steps:
-      - name: Probar Issue
+      - name: Aparece el nombre del step?
         run: echo "¡Probando Issue desde GITHUB ACTIONS!"
